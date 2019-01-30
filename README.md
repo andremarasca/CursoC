@@ -4,6 +4,10 @@ Bem vindo ao curso de Linguagem C
 
 # Exercícios extras:
 
+Resolução: https://github.com/andremarasca/ResolucaoURI/tree/master/Categoria%201
+-----------------------------
+
+
 Exercícios Básicos:
 
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
