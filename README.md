@@ -27,3 +27,14 @@ https://www.urionlinejudge.com.br/judge/pt/problems/view/1036
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1041
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1046
+
+
+Exercícios sobre estrutura de repetição:
+
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1079
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1072
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1059
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1099
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1057
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1164
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1165
