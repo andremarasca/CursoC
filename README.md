@@ -40,3 +40,28 @@ https://www.urionlinejudge.com.br/judge/pt/problems/view/1099
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1157
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1164
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1165
+
+
+Exercícios sobre vetores:
+
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1174
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1177
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1173
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1178
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1172
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1180
+
+
+Exercícios sobre matrizes:
+
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1181
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1182
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1183
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1184
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1185
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1186
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1187
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1188
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1189
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1190
+
