@@ -2,6 +2,8 @@
 
 Bem vindo ao curso de Linguagem C
 
+André Luiz Marasca - eng.andremarasca@gmail.com
+
 # Exercícios extras:
 
 Resolução: https://github.com/andremarasca/ResolucaoURI/tree/master/Categoria%201
