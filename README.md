@@ -2,7 +2,7 @@
 
 Bem vindo ao curso de Linguagem C
 
-André Luiz Marasca - eng.andremarasca@gmail.com
+André Luiz Marasca
 
 # Exercícios extras:
 
